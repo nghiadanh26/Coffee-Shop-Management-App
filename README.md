@@ -1,10 +1,17 @@
-# cafe_management
-## Đề tài: Xây dựng app quản lý quán cafe
-### Môn: Lập Trình Nâng cao
-### GVHD: TS. Nguyễn Thanh Bình
-### Nhóm 2:
-- Nguyễn Danh Nghĩa
-- Lê Hà An
-- Trần Quý Hiển
-- Lê Văn Hải (C)
-- Nguyễn Văn Duy
+# Coffee Shop Management Application
+Please contact Mr. Nghia NGUYEN DANH - nghiadanh@gmail.com for more information.
+### Course: Advanced Programming
+### Instructed by: Dr. Thanh Binh Nguyen
+### Group members:
+- Nghia Nguyen Danh
+- An Le Ha
+- Hien Quy Tran
+- Hai Le Van
+- Duy Nguyen Van
+
+### Short descriptions:
+In this project, we design an application to manage the activities of a coffee shop including: clients order a drink, export the bills for clients, manager modifies the staff, manage the storage, import the ingredients, export the sales for th shop... We also built a small database to store the client information, and also the shop's information.
+
+This project was written on Java using Java Swings. 
+
+
